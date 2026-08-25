@@ -2,7 +2,7 @@
 #include <iostream>
 #include <vector>
 
-#include "CLI11.hpp"
+#include <CLI/CLI.hpp>
 #include "utils.hpp"
 #include "../emdL1.h"
 
